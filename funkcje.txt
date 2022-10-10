@@ -1,0 +1,7 @@
+end = "" - jako parametr w funkcji print() kasuje przejscie do nowej linii
+liczba_dzielona%2 - operator modulo, zwraca resztę z dzielenia np przez 2
+range(1,11,1) - po kolei: liczba 1 est wartoscia poczatkowa, liczba 11 to gorna granica, liczba 1 to krok iteracji czyli +=1, czyli generuje 10 liczb od 1 do 10
+list(range(1,11,1)) - tworzy liste: [1,2,3,4,5,6,7,8,9,10]
+random.randint(1,100) - po imporcie modułu random, randint generuje liczbe calkowita z przedzialu od 1 do 100
+
+/t - daje odstep tabulatora

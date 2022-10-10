@@ -1,0 +1,29 @@
+1 - PODSTAWOWE OPERACJE WEJŚCIA WYJŚCIA
+1.1 - wprowadzanie wartosci z klawiatury do programu
+1.2 - dokładność liczbowa - ile po przecinku ma wyswietlić
+1.3 - pierwiastek kwadratowy z liczby pi z dokładnością do 4 liczb po przecinku
+1.4 - dzielenie całkowite bez reszty dla dwóch liczb całkowitych
+1.5 - reszta z dzielenia całkowitego 2 liczb całkowitych
+1.6 - wpisywanie danych i wyswietlanie ich w konsoli
+1.7 - generowanie 5 liczb pseudolosowych od 1 do 100
+
+2 - STRUKTURY WARUNKOWE I OPERATORY LOGICZNE
+2.1 - sprawdza czy 3 liczby to trójki pitagorejskie
+2.2 - obliczanie x-sa w rownianiu liniowym
+2.3 - obliczanie pierwiastka rownania kwadratowego
+2.4 - działanie operatora logicznego or
+2.5 - działanie operatora logicznego and
+2.6 - sprawdzenie pierwszego prawa de Morgana
+2.7 - operator trojargumentowy / operator warunkowy
+2.8 - porownywanie ciagow tekstowych
+2.9 - weryfikacja hasła
+
+3 - STRUKTURY CYKLICZNE
+3.1 - obliczanie wartosci funkcji 3x - petla while
+3.2 - wyswitlanie liczb calkowitych od 1 do 20 - petla while
+3.3 - sumuje liczby parzyste od 1 do 100 - petla while
+3.4 - sumuje liczby nieparzyste od 1 do 100 - petla while
+3.5 - sumuje wszystkie liczby calkowite od 1 do 100 - petla while
+3.6 - obliczanie wartosci funkcji 3x - petla for
+3.7 - generowanie liczb losowych, min i max liczba ze zbioru liczb i ich srednia - petla for
+3.8 - rysuje macierz tabliczki mnozenia - zagniezdzona petla for
