@@ -27,3 +27,24 @@
 3.6 - obliczanie wartosci funkcji 3x - petla for
 3.7 - generowanie liczb losowych, min i max liczba ze zbioru liczb i ich srednia - petla for
 3.8 - rysuje macierz tabliczki mnozenia - zagniezdzona petla for
+3.9 - wyswietlanie duzych liter alfabetu - kod ASCII i funkcja chr(i)
+3.10 - wyznaczanie liczby pi metoda monte carlo
+3.11 - sprawdzanie ile jest cyfr spelniajace zaleznosc - 1233 = 12^2 + 33^2
+3.12 - sprawdzanie ile jest cyfr spelniajace zaleznosc - 123388 = 123^2 + 388^2
+3.13 - znajdowanie licz pierwszych
+
+4 - FUNKCJE
+4.1 - prosta funkcja - rozne warianty pisania
+4.2 - robienie funkcji dodawania, mnożenia itd
+4.2b - robienie funkcji dodawania, mnożenia itd z robieniem modulu o nazwie kalkulator
+4.3 - funkcja do bliczania pla prostokata
+4.4 - funkcja do sprawdzenia czy 3 liczby to trójki pitagorejskie
+4.5 - funkcja do obliczania pierwiastkow funkcji kwadratowej dla dowolnych zmiennych a,b,c
+4.6 - funkcja signum
+4.7 - sortowanie liczb
+4.8 - wyliczanie y funkcji x^2+1 w kroku 0.5
+4.9 - prosta funkcja rekurencyjna
+4.10 - wyliczanie silni rekurencyjnie
+4.11 - wyliczanie liczb trojkatnych rekurencyjnie
+4.12 - ciag fibonacciego
+4.13 - najwiekszy wspolny dzielnik (GCD)

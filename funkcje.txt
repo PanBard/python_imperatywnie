@@ -1,7 +1,16 @@
 end = "" - jako parametr w funkcji print() kasuje przejscie do nowej linii
+sep = "" - mowimy co ma sie pojawic pomiedzy rzeczami w princie np: sep="" to nic, ="\n" to od nowej linii itd
 liczba_dzielona%2 - operator modulo, zwraca resztę z dzielenia np przez 2
-range(1,11,1) - po kolei: liczba 1 est wartoscia poczatkowa, liczba 11 to gorna granica, liczba 1 to krok iteracji czyli +=1, czyli generuje 10 liczb od 1 do 10
+range(1,11,1) - po kolei: liczba 1 jest wartoscia poczatkowa, liczba 11 to gorna granica, liczba 1 to krok iteracji czyli +=1, czyli generuje 10 liczb od 1 do 10
+range(1,10) - wymienia liczby od 1 do 9
 list(range(1,11,1)) - tworzy liste: [1,2,3,4,5,6,7,8,9,10]
 random.randint(1,100) - po imporcie modułu random, randint generuje liczbe calkowita z przedzialu od 1 do 100
-
+random.uniform() - zwraca randomowe liczby zmiennoprzecinkowe w podanym przedziale włączając dolny próg bez górnego
+chr(i) - zwraca znak, ktorego kod ACII odpowiada liczbie i, np chr(65) to duża litera A
+liczba:.4f - ustala precyzje po przecinku np. 3.14234223:.5f zostawi tylko 5 cyfr po przecinku: 3.14234
+all() - zwraca true gdy wszystkie iterowalne elementy spełniają dany warunek np: if all(x%i != 0 for i in range(2, int(math.sqrt(x))+1)):
+// - dzieli tylko liczbowo całkowicie
 /t - daje odstep tabulatora
+from cokolwiek import * - gwiazdka importuje wszystko
+exit() - wylacza z programu
+math.gcd(a,b) - zwraca najwiekszy wspolny dzielnik liczb a i b
