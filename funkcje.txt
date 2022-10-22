@@ -14,3 +14,5 @@ all() - zwraca true gdy wszystkie iterowalne elementy spełniają dany warunek n
 from cokolwiek import * - gwiazdka importuje wszystko
 exit() - wylacza z programu
 math.gcd(a,b) - zwraca najwiekszy wspolny dzielnik liczb a i b
+lambda - jednolinijkowa funkcja np: lambda argument,...:wyrazenie
+print('-' * 10) - rysuje 10 razy -

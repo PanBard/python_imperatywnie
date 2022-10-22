@@ -48,3 +48,18 @@
 4.11 - wyliczanie liczb trojkatnych rekurencyjnie
 4.12 - ciag fibonacciego
 4.13 - najwiekszy wspolny dzielnik (GCD)
+4.14 - sumowanie liczb w liscie w jakims zakresie rekurencyjnie
+4.15 - funkcja ANONIMOWA - lambda
+4.16 - znajduje wszystkie trojki pitagorejskie z przedzialu od 1 do N
+4.17 - znajduje wszystkie czworki pitagorejskie z przedzialu od 1 do N
+4.18 - obliczanie sumy wyrazenia: 1+2-3+4-5+6-...
+4.19 - obliczanie wyrazenia (2*n-1) dla dowolnego n
+4.20 - obliczanie sumy wyrazenia n*(n+1) dla dowolnego n np: 1*2+2*3+3*4+...
+4.21 - obliczanie przyblizonej wartosci liczby e
+4.22 - mala funkcja wyzszego rzedu
+
+5 - KLASY - PROGRAMOWANIE OBIEKTOWE
+5.1 - pole prostokata obiektowo
+5.2 - obliczanie pierwiastka rownania kwadratowego obiektowo
+5.3 - tworzenie macierzy 10x10 z zerami i liczbowa przekatna
+5.4 - sortowanie babelkowe obiektowo
