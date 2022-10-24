@@ -21,6 +21,11 @@ print("Twoje BMI to {:10.2f}).format(zmienna) - modyfikuje zmienna w nawiasie {}
 round(zmienna,4) - zaokragla zmienna do 4 miejsc po przecinku
 
 DO PLIKOW:
+
+with open("nazwa_pliku.txt",'w') as plik:
+plik.readline()                           - menedzer kontekstu dla otwierania i zamykania plikow
+
 'r' - plik zostaje otwarty tylko do odczytu, nie mozna zmienic zawartosci
 'w' - plik otwarty tylko do zapisu, zawartosc ktora byla zostaje usunieta, jak plik nie istnieje to zostaje utworzony
 'a' - plik otwarty tylko do dopisu nowych danych na koncu pliku, jak plik nie istnial to zostaje utworzony
+eval() - rozdziela lancuch znakow na skladowe, np: eval("2 + 2") powoduje ze lancuch znakow jest teraz (int 2 + int 2) i daje wynik 4
