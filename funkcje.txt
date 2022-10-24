@@ -15,4 +15,12 @@ from cokolwiek import * - gwiazdka importuje wszystko
 exit() - wylacza z programu
 math.gcd(a,b) - zwraca najwiekszy wspolny dzielnik liczb a i b
 lambda - jednolinijkowa funkcja np: lambda argument,...:wyrazenie
-print('-' * 10) - rysuje 10 razy -
+print('-' * 10) - rysuje 10 razy kreske: ----------
+nowa_lista = stara_lista.copy() - robi kopie listy, a nie tylko referencje do tego samego obiektu jak w tym: nowa_lista = stara_lista
+print("Twoje BMI to {:10.2f}).format(zmienna) - modyfikuje zmienna w nawiasie {} dajac 10 miejsc na liczby calkowite i 2 po przecinku
+round(zmienna,4) - zaokragla zmienna do 4 miejsc po przecinku
+
+DO PLIKOW:
+'r' - plik zostaje otwarty tylko do odczytu, nie mozna zmienic zawartosci
+'w' - plik otwarty tylko do zapisu, zawartosc ktora byla zostaje usunieta, jak plik nie istnieje to zostaje utworzony
+'a' - plik otwarty tylko do dopisu nowych danych na koncu pliku, jak plik nie istnial to zostaje utworzony

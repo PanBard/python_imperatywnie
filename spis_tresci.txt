@@ -63,3 +63,11 @@
 5.2 - obliczanie pierwiastka rownania kwadratowego obiektowo
 5.3 - tworzenie macierzy 10x10 z zerami i liczbowa przekatna
 5.4 - sortowanie babelkowe obiektowo
+5.5 - klasa "osoba"
+5.6 - dziedziczenie po klasie z cwiczenia 5.5
+5.7 - przeciazanie metody (czyli uzywanie w klasie potomnej funkcji o tej samej nazwie)
+
+6 - PLIKI
+6.1 - zapis i odczyt danych z pliku .txt
+6.2 - to samo co 6.1 tylko obiektowo
+6.3 -
