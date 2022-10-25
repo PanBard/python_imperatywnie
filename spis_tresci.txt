@@ -73,3 +73,4 @@
 6.3 - zadanie 5.3 tylko ze z zapisaniem i odczytaniem pliku
 6.4 - zadanie 6.3 obiektowo
 6.5 - zapisywanie rekordow do pliku .txt
+6.6 - odzczytywanie rekordow z pliku .txt

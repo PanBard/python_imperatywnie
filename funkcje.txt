@@ -24,7 +24,7 @@ DO PLIKOW:
 
 with open("nazwa_pliku.txt",'w') as plik:
 plik.readline()                           - menedzer kontekstu dla otwierania i zamykania plikow
-
+plik.rstrip("\n") - funkcja do usuwania znakow z lancucha
 'r' - plik zostaje otwarty tylko do odczytu, nie mozna zmienic zawartosci
 'w' - plik otwarty tylko do zapisu, zawartosc ktora byla zostaje usunieta, jak plik nie istnieje to zostaje utworzony
 'a' - plik otwarty tylko do dopisu nowych danych na koncu pliku, jak plik nie istnial to zostaje utworzony

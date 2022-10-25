@@ -7,6 +7,15 @@ def main():
         print("Podaj dane o pracowniku nr",i)
         name = input("Imie: ")
         suranme = input("Podaj nazwisko; ")
-        id_number = int(input("Podaj kod identyfikacyjny:"))
+        id_number = input("Podaj kod identyfikacyjny:")
         department = input("Podaj nazwe dzialu: ")
 
+        data_file.write(name +"\n")
+        data_file.write(suranme + "\n")
+        data_file.write(id_number + "\n")
+        data_file.write(department + "\n")
+        print()
+    data_file.close()
+    print("Rekordy pracownikow zostaly napisane w pliku:",file_name)
+
+main()
