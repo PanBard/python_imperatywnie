@@ -74,3 +74,14 @@
 6.4 - zadanie 6.3 obiektowo
 6.5 - zapisywanie rekordow do pliku .txt
 6.6 - odzczytywanie rekordow z pliku .txt
+6.7 - dodawanie nowych rekordow do pliku .txt
+6.8 - modyfikowanie pliku .txt
+6.9 - usuwanie rekordow z pliku .txt
+6.10 i 6.11 - to samo co 6.9 wiec nie zrobione
+6.12 - SERIALIZACJA - modyfikacja zad 5.5 w zapis i odczyt danych z pliku .txt
+6.13 - serializacja typow (slownik i tabela) w zapisie do pliku txt
+
+7 - WYJATKI
+7.1 - kalkulator, wyjatek na wypadek dzielenia przez 0
+7.2 - obliczanie pierwiastka trojmiana, wyjatek na wypadek dzielenia przez 0
+7.3 - zapisywanie i odczytywanie pliku .txt, wyjatek na wypadek zlej nazwy
