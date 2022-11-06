@@ -88,4 +88,10 @@
 
 8 - DEKORATORY I MENEDZERY KONTEKSTU
 8.1 - demonstracja uzycia dekoratora - zapobieganie wpisania czegos innego niz stringa
-8.2 - to samo co 8.1 plus dodadkowa funkcja
+8.2 - dekorator, to samo co 8.1 plus dodadkowa funkcja
+8.3 - dekorator, funkcja w funkcji
+8.4 - dekorator, NAJLEPSZY sposob na pokazanie jak działa dekorator
+8.5 - menedżer kontekstu, pisane swojego menedżera kontekstu do otwierania i zapisywania pliku
+
+9 - ITERATORY I GENERATORY
+9.1 -
