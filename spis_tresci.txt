@@ -85,3 +85,7 @@
 7.1 - kalkulator, wyjatek na wypadek dzielenia przez 0
 7.2 - obliczanie pierwiastka trojmiana, wyjatek na wypadek dzielenia przez 0
 7.3 - zapisywanie i odczytywanie pliku .txt, wyjatek na wypadek zlej nazwy
+
+8 - DEKORATORY I MENEDZERY KONTEKSTU
+8.1 - demonstracja uzycia dekoratora - zapobieganie wpisania czegos innego niz stringa
+8.2 - to samo co 8.1 plus dodadkowa funkcja
