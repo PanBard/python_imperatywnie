@@ -33,3 +33,5 @@ eval() - rozdziela lancuch znakow na skladowe, np: eval("2 + 2") powoduje ze lan
 DO iteratorow:
 next(iterator) - funkcja pobiera nastepny element z iteratora (tak mozna sprawdzic czy obiekt jest iteratorem)
 itertools.cycle(list) - robi iterator np. w tym wypadku z listy
+range(m,n,s) - itarator: zakres przebiega od m do n-1 z krokiem s
+yeld - dziala jak return ale nie powoduje wyjscia z funkcji ale wstrzymanie jej do ponownego wywolania

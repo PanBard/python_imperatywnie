@@ -94,7 +94,16 @@
 8.5 - menedżer kontekstu, pisane swojego menedżera kontekstu do otwierania i zapisywania pliku
 
 9 - ITERATORY I GENERATORY
-9.1 - pokazuje ze petla for iteruje po roznych obiektach (lista, krotka, lancuch znakow)
-9.2 - utworzenie wlasnego iteratora po ktorym mozna iterowac w petli for
-9.3 - robimy klase iteratora
-9.4 - roznica pomiedzy iteratorem a obiektem iterowalnym
+9.1 - iteratory - pokazuje ze petla for iteruje po roznych obiektach (lista, krotka, lancuch znakow)
+9.2 - iteratory - utworzenie wlasnego iteratora po ktorym mozna iterowac w petli for
+9.3 - iteratory - robimy klase iteratora
+9.4 - iteratory - roznica pomiedzy iteratorem a obiektem iterowalnym
+9.5 - iteratory - dzialanie iteratora range()
+9.6 - generatory - wlasny generator ktory generuje wynik mnozacy liczbe
+9.7 - generatory - prosty generujacy ciag liczb od n do 0
+9.8 - generatory - generuje tylko liczby nieparzyste
+9.9 - generatory - generuje kolejne wyrazy ciagu fibonaciego
+9.10 - generatory - liczby pierwsze z przedzialu od 2 do N
+
+10 - funkcje wyzszego rzedu
+10.1 -
