@@ -29,3 +29,7 @@ plik.rstrip("\n") - funkcja do usuwania znakow z lancucha
 'w' - plik otwarty tylko do zapisu, zawartosc ktora byla zostaje usunieta, jak plik nie istnieje to zostaje utworzony
 'a' - plik otwarty tylko do dopisu nowych danych na koncu pliku, jak plik nie istnial to zostaje utworzony
 eval() - rozdziela lancuch znakow na skladowe, np: eval("2 + 2") powoduje ze lancuch znakow jest teraz (int 2 + int 2) i daje wynik 4
+
+DO iteratorow:
+next(iterator) - funkcja pobiera nastepny element z iteratora (tak mozna sprawdzic czy obiekt jest iteratorem)
+itertools.cycle(list) - robi iterator np. w tym wypadku z listy

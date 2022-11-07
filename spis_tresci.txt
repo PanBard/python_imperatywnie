@@ -94,4 +94,7 @@
 8.5 - menedżer kontekstu, pisane swojego menedżera kontekstu do otwierania i zapisywania pliku
 
 9 - ITERATORY I GENERATORY
-9.1 -
+9.1 - pokazuje ze petla for iteruje po roznych obiektach (lista, krotka, lancuch znakow)
+9.2 - utworzenie wlasnego iteratora po ktorym mozna iterowac w petli for
+9.3 - robimy klase iteratora
+9.4 - roznica pomiedzy iteratorem a obiektem iterowalnym
