@@ -105,5 +105,8 @@
 9.9 - generatory - generuje kolejne wyrazy ciagu fibonaciego
 9.10 - generatory - liczby pierwsze z przedzialu od 2 do N
 
-10 - funkcje wyzszego rzedu
-10.1 -
+10 - FUNKCJE WYZSZEGO RZEDU
+10.1 - funkcja ktora wykonuje przekazana do niej funkcje 2 razy
+10.2 - funkcja z zad 10.1 ale z uzyciem dekoratora
+10.3 - sumowanie liczb naturalnych od 1 do N
+10.4 - liczba pi z zadana liczba cyfr po przecinku
